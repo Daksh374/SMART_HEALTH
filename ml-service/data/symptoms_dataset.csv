@@ -1,0 +1,26 @@
+Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Disease
+fever,cough,headache,fatigue,body_ache,Influenza
+fever,sore_throat,runny_nose,cough,,Common Cold
+fever,high_fever,chills,sweating,joint_pain,Malaria
+fever,skin_rash,joint_pain,headache,,Dengue Fever
+chest_pain,shortness_of_breath,fatigue,sweating,,Heart Disease
+chest_pain,cough,shortness_of_breath,fatigue,,Pneumonia
+headache,nausea,vomiting,dizziness,blurred_vision,Migraine
+nausea,vomiting,diarrhea,abdominal_pain,,Gastroenteritis
+abdominal_pain,nausea,vomiting,loss_of_appetite,,Appendicitis
+fatigue,weight_loss,loss_of_appetite,sweating,cough,Tuberculosis
+skin_rash,fever,fatigue,joint_pain,,Chickenpox
+neck_stiffness,headache,fever,nausea,vomiting,Meningitis
+back_pain,abdominal_pain,nausea,vomiting,,Kidney Stones
+yellow_skin,fatigue,abdominal_pain,nausea,,Hepatitis
+fatigue,weight_loss,loss_of_appetite,blurred_vision,,Diabetes
+high_fever,headache,body_ache,fatigue,chills,Typhoid Fever
+fever,cough,shortness_of_breath,fatigue,body_ache,COVID-19
+joint_pain,back_pain,fatigue,body_ache,,Arthritis
+headache,dizziness,nausea,fatigue,,Hypertension
+skin_rash,itching,fever,fatigue,,Eczema
+cough,shortness_of_breath,chest_pain,fatigue,,Asthma
+fatigue,weight_loss,sweating,loss_of_appetite,,Anemia
+fever,vomiting,abdominal_pain,diarrhea,,Food Poisoning
+headache,neck_stiffness,fever,vomiting,,Encephalitis
+joint_pain,fever,skin_rash,fatigue,,Rheumatoid Arthritis
